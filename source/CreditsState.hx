@@ -46,6 +46,11 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
+		    ['VS FAKE BF ANDROID PORT'],
+		    ['Luis',		    'luis',		    'The one who wears this,	 'https://youtube.com/channel/UCO8zgo4sLnJHJwWMA1hevIA',	'0xFFC30085'],
+		    ['VS FAKE BF'],
+		    ['NoLime',		    'nolime',		    'Made everything else',	 'https://twitter.com/TheWoom4?t=msJh5hdKwjORuLD4a7J0jA&s',	'0xFFC30085'],
+		    ['Saster',		    'saster',		    'Composer of Confronting Yourself',	 'https://twitter.com/sub0ru?t=iaH1SGF403Xi-bLmocOMdA&s',	'0xFFC30085'],
 			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
